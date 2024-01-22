@@ -1,19 +1,21 @@
-ad: 
-active directory ,  é um banco de dados e/ou serviços que conectam os utilizadores associados aos recursos da rede
+active directory: 
 
-	banco de dados: contem as permissoes e informaçoes do usuario 
+    É um banco de dados e/ou serviços que conectam os utilizadores associados aos recursos da rede;
+
+    	banco de dados: contem as permissoes e informaçoes do usuario;
 	
-	serviçoes: garantem acesso ao sistemas, estes podem ser as palavras passes e os utilizadores 
+    	serviçoes: garantem acesso ao sistemas, estes podem ser as palavras passes e os utilizadores; 
 	
 domínio:
 	
-	um dominio é onde se encontram os utilizadores  
+	um dominio é onde se encontram os utilizadores, computadores e outros ou seja, objetos; 
+	 
+dominio vs wkgroup:
 
+    dominio: centralizado, usado para redes grandes;
+    
+    wkgroup: descentralizado, usado para redes pequenas;
 
+gpos (group policy, politicas de grupo):
 
-dominio vs workgroup 
-
-
-
-gpos
-
+     servem para gerenciar os utilisadores e os seus ambientes;
