@@ -1,0 +1,19 @@
+ad: 
+active directory ,  é um banco de dados e/ou serviços que conectam os utilizadores associados aos recursos da rede
+
+	banco de dados: contem as permissoes e informaçoes do usuario 
+	
+	serviçoes: garantem acesso ao sistemas, estes podem ser as palavras passes e os utilizadores 
+	
+domínio:
+	
+	um dominio é onde se encontram os utilizadores  
+
+
+
+dominio vs workgroup 
+
+
+
+gpos
+
