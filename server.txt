@@ -1,10 +1,10 @@
 Active Directory: 
 (autenticaçao/autorizaçao)
 
-autenticaçao: 
+Autenticaçao: 
 		resposabiliza se por fazer com que um utelizador aceder os recursos da organizaçao, ou seja garantir que este tenha acesso a rede atrasves do id, este e unico a palavra passe e user;
 
-autorizaçao:
+Autorizaçao:
 		determina o que este user pode o nao aceder ou seja criar restriçoes e os previlegios;
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
