@@ -31,3 +31,32 @@ O que se deve fazer quando se instala um novo equipamento numa rede con DC?
     aceder ao eqipamento e aceitar ser dominado, juntar ao protocolo LDAP, eadcionar a base de dados do Active Directory.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Árvore
+  - Domínio (exemplo: contoso.com)
+    - Organizational Units (OUs)
+      - Departamento A
+        - Usuários
+        - Computadores
+      - Departamento B
+        - Usuários
+        - Computadores
+    - Domain Controllers (DCs)
+      - DC1
+      - DC2
+    - Sites
+      - Site A
+      - Site B
+  - Group Policy Objects (GPOs)
+    - GPO1
+    - GPO2
+  - Active Directory (AD)
+    - Users
+    - Groups
+    - Computers
+  - Acronyms
+    - AC (Active Directory Certificate Services)
+    - DC (Domain Controller)
+    - OU (Organizational Unit)
+    - GPO (Group Policy Object)
+
