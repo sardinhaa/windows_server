@@ -1,11 +1,20 @@
 Active Directory:(autenticaçao/autorizaçao)
-Autenticaçao:responsabiliza se por fazer com que um utelizador aceder os recursos da organizaçao, ou seja garantir que este tenha acesso a rede atrasves do id, este e unico a palavra passe e user;
+  Autenticaçao:
+    responsabiliza se por fazer com que um utelizador aceder os recursos da organizaçao, ou seja garantir que este tenha acesso a rede atrasves do id, este e unico a palavra passe e user;
 
-Autorizaçao:determina o que este user pode o nao aceder ou seja criar restriçoes e os previlegios;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Autorizaçao:
+    determina o que este user pode o nao aceder ou seja criar restriçoes e os previlegios;
 
-Domain Controller:ajuda a gerenciar os acessos ao servidor, respodendo a pedidos de autenticaçao;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Domínio:um dominio é uma base de dados central, no servidor, se encontram os objetos: utilizadores, computadores, impressoras, etc;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Organizational Units:sao containers num diretorio, utilizado para organizar objetos com maior facilidade;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-gpos (group policy, politicas de grupo):servem para gerenciar os utilisadores e os seus ambientes;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-O que se deve fazer quando se instala um novo equipamento numa rede con DC?aceder ao eqipamento e aceitar ser dominado, juntar ao protocolo LDAP, eadcionar a base de dados do Active Directory.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Domain Controller:
+    ajuda a gerenciar os acessos ao servidor, respodendo a pedidos de autenticaçao;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Domínio:
+  um dominio é uma base de dados central, no servidor, se encontram os objetos: utilizadores, computadores, impressoras, etc;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Organizational Units:
+    sao containers num diretorio, utilizado para organizar objetos com maior facilidade;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+gpos (group policy, politicas de grupo):
+    servem para gerenciar os utilisadores e os seus ambientes;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+O que se deve fazer quando se instala um novo equipamento numa rede con DC?
+    aceder ao eqipamento e aceitar ser dominado, juntar ao protocolo LDAP, eadcionar a base de dados do Active Directory.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
