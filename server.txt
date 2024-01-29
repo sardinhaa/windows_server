@@ -28,7 +28,7 @@ gpos (group policy, politicas de grupo):
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 O que se deve fazer quando se instala um novo equipamento numa rede con DC?
-    aceder ao eqipamento e aceitar ser dominado, juntar ao protocolo LDAP, eadcionar a base de dados do Active Directory.
+  atribuir ip, aceder ao eqipamento e aceitar ser dominado, juntar ao protocolo LDAP, eadcionar a base de dados do Active Directory.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
